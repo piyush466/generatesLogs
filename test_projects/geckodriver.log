@@ -1,0 +1,305 @@
+1679910334392	geckodriver	INFO	Listening on 127.0.0.1:52637
+1679910339957	geckodriver	INFO	Listening on 127.0.0.1:52652
+1679910345290	geckodriver	INFO	Listening on 127.0.0.1:52665
+1679910587656	geckodriver	INFO	Listening on 127.0.0.1:53228
+1679910593138	geckodriver	INFO	Listening on 127.0.0.1:53238
+1679910598455	geckodriver	INFO	Listening on 127.0.0.1:53249
+1679911261362	geckodriver	INFO	Listening on 127.0.0.1:54253
+1679911266835	geckodriver	INFO	Listening on 127.0.0.1:54263
+1679911272170	geckodriver	INFO	Listening on 127.0.0.1:54273
+1679911378696	geckodriver	INFO	Listening on 127.0.0.1:54338
+1679911384121	geckodriver	INFO	Listening on 127.0.0.1:54348
+1679911389617	geckodriver	INFO	Listening on 127.0.0.1:54360
+1679911404208	geckodriver	INFO	Listening on 127.0.0.1:54380
+1679911409650	geckodriver	INFO	Listening on 127.0.0.1:54393
+1679911414998	geckodriver	INFO	Listening on 127.0.0.1:54406
+1679911432196	geckodriver	INFO	Listening on 127.0.0.1:54430
+1679911437669	geckodriver	INFO	Listening on 127.0.0.1:54441
+1679911443007	geckodriver	INFO	Listening on 127.0.0.1:54451
+1679911924636	geckodriver	INFO	Listening on 127.0.0.1:54848
+1679911927766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofiler99UmG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679911928576	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679911928583	Marionette	INFO	Listening on port 54858
+Read port: 54858
+WebDriver BiDi listening on ws://127.0.0.1:54849
+1679911928748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofiler99UmG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54849/devtools/browser/2aefbb22-cbd3-4298-bcd0-02dd1012e673
+JavaScript warning: https://z.moatads.com/maxusinlorealdcm317551604832/moatad.js#moatClientLevel1=29135493&moatClientLevel2=7566263&moatClientLevel3=355473547&moatClientLevel4=163953899&zMoatG=ct=IN&st=&city=7325&dma=0&zp=201307&bw=4&zMoatADV=9248061&zMoatUSER=0&zMoatDBMIOID=1009966603&zMoatDBMCampID=19074202956&zMoatDBMCreaID=466179995&zMoatABH=0, line 238: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p21679911939431	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679911939477	Marionette	INFO	Listening on port 55155
+Read port: 55155
+WebDriver BiDi listening on ws://12JavaScript warn1679911939693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileNRazQe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54921/devtools/browser/e59b60d4-90ef-45d0-b7c9-7dadc08b6b8a
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > eval line 6892 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > e1679912222322	Marionette	INFO	Stopped listening on port 54858
+Dynamically enable window occlusion 1
+irefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > eval line 4423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > eval line 574 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > eval line 6250 > evaconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofilewoaj0H\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1679912223520	Marionette	INFO	Stopped listening on port 55155
+Dynamically enable window occlusion 1
+[Parent 18244, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+[Parent 18244, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > eval line 6608 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > eval line 2743 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > eval line 4290 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TU2PSynrXT7p2KnzXte8fEgQWf4_RAVzpVc0SCm-B08.js line 2 > eval line 4558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679912224567	Marionette	INFO	Stopped listening on port 55429
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679912816446	geckodriver	INFO	Listening on 127.0.0.1:56380
+1679912821969	geckodriver	INFO	Listening on 127.0.0.1:56390
+1679912827289	geckodriver	INFO	Listening on 127.0.0.1:56400
+1679912846136	geckodriver	INFO	Listening on 127.0.0.1:56417
+1679912849214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56418" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileLxI1X8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679912849581	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679912849586	Marionette	INFO	Listening on port 56425
+Read port: 56425
+WebDriver BiDi listening on ws://127.0.0.1:56418
+1679912849756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileLxI1X8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56418/devtools/browser/46cff14e-fa72-49c0-b559-b7b40db5e337
+JavaScript error: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 34: SyntaxError: missing } after property list
+JavaScript note: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 5: { opened at line 5, column 77
+1679912895766	Marionette	INFO	Stopped listening on port 56425
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileZbNNTX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679912859718	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679912859724	Marionette	INFO	Listening on port 56509
+WebDriver BiDi listening on ws://127.0.0.1:56485
+Read port: 56509
+1679912859894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileZbNNTX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56485/devtools/browser/5e2ff257-64cc-4b59-9ff9-268bbcfe21c8
+JavaScript error: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 34: SyntaxError: missing } after property list
+JavaScript note: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 5: { opened at line 5, column 77
+1679912896769	Marionette	INFO	Stopped listening on port 56509
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "56572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileuYtbbo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679912867918	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679912867924	Marionette	INFO	Listening on port 56588
+Read port: 56588
+WebDriver BiDi listening on ws://127.0.0.1:56572
+1679912868097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileuYtbbo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56572/devtools/browser/059ee938-80a7-4fe2-91ee-bf97e16187bf
+JavaScript error: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 34: SyntaxError: missing } after property list
+JavaScript note: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 5: { opened at line 5, column 77
+1679912897621	Marionette	INFO	Stopped listening on port 56588
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1679912900455	geckodriver	INFO	Listening on 127.0.0.1:56693
+1679912903518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileiyY5it"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679912903982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679912903988	Marionette	INFO	Listening on port 56701
+WebDriver BiDi listening on ws://127.0.0.1:56694
+Read port: 56701
+1679912904257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileiyY5it\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56694/devtools/browser/2d3ae1db-3a26-4930-9707-225ee5923c50
+JavaScript error: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 34: SyntaxError: missing } after property list
+JavaScript note: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 5: { opened at line 5, column 77
+1679912909495	Marionette	INFO	Stopped listening on port 56701
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+1679912912455	geckodriver	INFO	Listening on 127.0.0.1:56758
+1679912915500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofilecXwsVT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679912915863	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679912915869	Marionette	INFO	Listening on port 56769
+WebDriver BiDi listening on ws://127.0.0.1:56759
+Read port: 56769
+1679912916136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofilecXwsVT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56759/devtools/browser/0e3146fe-b96e-417d-b50c-337f2c1aba02
+JavaScript error: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 34: SyntaxError: missing } after property list
+JavaScript note: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 5: { opened at line 5, column 77
+1679912920844	Marionette	INFO	Stopped listening on port 56769
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1679912921898	geckodriver	INFO	Listening on 127.0.0.1:56832
+1679912924957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofiletZJ8Hb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679912925323	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679912925328	Marionette	INFO	Listening on port 56841
+WebDriver BiDi listening on ws://127.0.0.1:56833
+Read port: 56841
+1679912925599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofiletZJ8Hb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56833/devtools/browser/8b88a10d-ed8d-4a04-8013-4ddca381247e
+JavaScript error: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 34: SyntaxError: missing } after property list
+JavaScript note: https://cdnads.geeksforgeeks.org/gfg_ads.min.js?ver=0.1, line 5: { opened at line 5, column 77
+1679912931601	Marionette	INFO	Stopped listening on port 56841
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+1679913289504	geckodriver	INFO	Listening on 127.0.0.1:56973
+1679913292572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile1IohAh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679913292943	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679913292948	Marionette	INFO	Listening on port 56981
+WebDriver BiDi listening on ws://127.0.0.1:56974
+Read port: 56981
+1679913293219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile1IohAh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56974/devtools/browser/50aef8db-721d-45db-a84a-636737bf24ab
+1679913297639	Marionette	INFO	Stopped listening on port 56981
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+1679913300672	geckodriver	INFO	Listening on 127.0.0.1:57037
+1679913303719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofilextZZOX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679913304096	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679913304101	Marionette	INFO	Listening on port 57047
+Read port: 57047
+WebDriver BiDi listening on ws://127.0.0.1:57038
+1679913304241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofilextZZOX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57038/devtools/browser/54629793-1c8f-4a29-b29e-d9b0a5cf0358
+1679913308689	Marionette	INFO	Stopped listening on port 57047
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+1679913309745	geckodriver	INFO	Listening on 127.0.0.1:57113
+1679913312775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile5u5jWl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679913313127	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679913313132	Marionette	INFO	Listening on port 57122
+Read port: 57122
+WebDriver BiDi listening on ws://127.0.0.1:57114
+1679913313852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile5u5jWl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57114/devtools/browser/970ba9a9-c320-4bc9-85b6-9f6346d0101e
+1679913320303	Marionette	INFO	Stopped listening on port 57122
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1679913545821	geckodriver	INFO	Listening on 127.0.0.1:57252
+1679913548887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile9YuS3P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679913549249	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679913549254	Marionette	INFO	Listening on port 57260
+WebDriver BiDi listening on ws://127.0.0.1:57253
+Read port: 57260
+1679913549423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile9YuS3P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57253/devtools/browser/d07f647e-ffad-4706-bf89-d33c8ea00275
+1679913559615	Marionette	INFO	Stopped listening on port 57260
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+1679913562676	geckodriver	INFO	Listening on 127.0.0.1:57344
+1679913565735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileLdf7kb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679913566266	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679913566272	Marionette	INFO	Listening on port 57354
+Read port: 57354
+WebDriver BiDi listening on ws://127.0.0.1:57345
+1679913566462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileLdf7kb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57345/devtools/browser/75cc4f12-4a7e-4609-9ecf-ffdd974d10aa
+1679913572212	Marionette	INFO	Stopped listening on port 57354
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+1679913573300	geckodriver	INFO	Listening on 127.0.0.1:57432
+1679913576365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofilea76O4y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679913576739	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679913576744	Marionette	INFO	Listening on port 57440
+Read port: 57440
+WebDriver BiDi listening on ws://127.0.0.1:57433
+1679913576901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofilea76O4y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57433/devtools/browser/2c9ac8b5-9d0d-46bc-b5fb-bf6a0eaf6bea
+1679913581561	Marionette	INFO	Stopped listening on port 57440
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1679914108605	geckodriver	INFO	Listening on 127.0.0.1:57575
+1679914111657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile4u4lNv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679914112019	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679914112025	Marionette	INFO	Listening on port 57583
+WebDriver BiDi listening on ws://127.0.0.1:57576
+Read port: 57583
+1679914112446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile4u4lNv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57576/devtools/browser/0fa7152b-40bb-4315-83fb-1f6c12a388ed
+1679914117094	Marionette	INFO	Stopped listening on port 57583
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+1679914120128	geckodriver	INFO	Listening on 127.0.0.1:57646
+1679914123161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileBzKz2t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679914123527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679914123533	Marionette	INFO	Listening on port 57656
+WebDriver BiDi listening on ws://127.0.0.1:57647
+Read port: 57656
+1679914123803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofileBzKz2t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57647/devtools/browser/2c93c3bb-3882-4350-b896-de06ed929d1b
+1679914127962	Marionette	INFO	Stopped listening on port 57656
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+1679914129024	geckodriver	INFO	Listening on 127.0.0.1:57719
+1679914132075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile6CASsj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679914132454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679914132461	Marionette	INFO	Listening on port 57727
+Read port: 57727
+WebDriver BiDi listening on ws://127.0.0.1:57720
+1679914132605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\CLIFFE~1\\AppData\\Local\\Temp\\rust_mozprofile6CASsj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57720/devtools/browser/2de626b6-07ea-4c4e-bdc7-de0f8bbdd72d
+1679914136869	Marionette	INFO	Stopped listening on port 57727
+Dynamically enable window occlusion 1
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.69, line 2: TypeError: loginData is undefined
+!!! error running onStopped callback: TypeError: callback is not a function
