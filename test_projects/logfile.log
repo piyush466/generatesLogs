@@ -1,5 +1,0 @@
-2023-03-27 18:52:41,050 : DEBUG : test_projects.test_logging : This is a debug
-2023-03-27 18:52:41,051 : INFO : test_projects.test_logging : This is a info
-2023-03-27 18:52:41,051 : WARNING : test_projects.test_logging : this is a warning
-2023-03-27 18:52:41,051 : ERROR : test_projects.test_logging : This is a error
-2023-03-27 18:52:41,051 : CRITICAL : test_projects.test_logging : this is a critical

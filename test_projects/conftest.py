@@ -11,6 +11,10 @@ def setup():
     yield
     driver.close()
 
+@pytest.fixture(scope='class')
+def datatest():
+
+    return ['piyush','dravyakar','class','9th']
 
 
 

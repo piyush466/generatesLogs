@@ -12,6 +12,7 @@ def test_lauch(setup):
 
 
 def test_good():
+    print()
     print("hello piyush")
 
 @pytest.mark.smoke
